@@ -1,0 +1,2 @@
+const productos = [];
+const carrito = [];
